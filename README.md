@@ -75,9 +75,9 @@ https://github.com/itdoginfo/allow-domains
 
 Например, там есть:
 
+- YouTube
+- Meta
 - Cloudflare
-- WhatsApp
-- AnyDesk
 - и другие сервисы
 
 ---
