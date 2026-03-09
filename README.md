@@ -23,7 +23,6 @@
 > ```sh
 > netsh int tcp set global timestamps=enabled
 > ```
-
 ### Запустить установщик Zapret-Manager
 
 ```sh
