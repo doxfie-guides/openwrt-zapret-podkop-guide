@@ -17,6 +17,13 @@
 
 **Zapret-Manager** — это умный скрипт, который сам поставит и настроит Zapret через удобное текстовое меню.
 
+> [!WARNING]
+> Для работы некоторых стратегий в терминале Windows необходимо выполнить:
+>
+> ```sh
+> netsh int tcp set global timestamps=enabled
+> ```
+
 ### Запустить установщик Zapret-Manager
 
 ```sh
@@ -29,15 +36,8 @@ sh <(wget -O - https://raw.githubusercontent.com/StressOzz/Zapret-Manager/main/Z
 - нажать **Enter**
 - следовать подсказкам скрипта
 
-Полное описание и код:  
+Полное описание и код проекта:  
 https://github.com/StressOzz/Zapret-Manager
-
-> [!WARNING]
-> Для работы некоторых стратегий в терминале Windows необходимо выполнить:
->
-> ```sh
-> netsh int tcp set global timestamps=enabled
-> ```
 ---
 
 ## 🌉 Установка / обновление Podkop
