@@ -18,11 +18,12 @@
 **Zapret-Manager** — это умный скрипт, который сам поставит и настроит Zapret через удобное текстовое меню.
 
 > [!WARNING]
-> Для работы некоторых стратегий в терминале Windows необходимо выполнить:
+> Если одна из стратегий **Zapret** не работает на **ПК с Windows**, выполните эту команду в **PowerShell**:
 >
-> ```sh
+> ```powershell
 > netsh int tcp set global timestamps=enabled
-> ```
+>```
+
 ### Запустить установщик Zapret-Manager
 
 ```sh
