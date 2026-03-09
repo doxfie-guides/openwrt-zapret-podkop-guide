@@ -17,15 +17,7 @@
 
 **Zapret-Manager** — это умный скрипт, который сам поставит и настроит Zapret через удобное текстовое меню.
 
-### 1. Обновить пакеты OpenWrt
-
-Подключиться к роутеру по SSH и выполнить:
-
-```sh
-opkg update
-```
-
-### 2. Запустить установщик Zapret-Manager
+### Запустить установщик Zapret-Manager
 
 ```sh
 sh <(wget -O - https://raw.githubusercontent.com/StressOzz/Zapret-Manager/main/Zapret-Manager.sh)
@@ -40,6 +32,12 @@ sh <(wget -O - https://raw.githubusercontent.com/StressOzz/Zapret-Manager/main/Z
 Полное описание и код:  
 https://github.com/StressOzz/Zapret-Manager
 
+> [!WARNING]
+> Для работы некоторых стратегий в терминале Windows необходимо выполнить:
+>
+> ```sh
+> netsh int tcp set global timestamps=enabled
+> ```
 ---
 
 ## 🌉 Установка / обновление Podkop
