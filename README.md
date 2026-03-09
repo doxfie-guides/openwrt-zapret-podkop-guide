@@ -37,6 +37,7 @@ sh <(wget -O - https://raw.githubusercontent.com/StressOzz/Zapret-Manager/main/Z
 
 Полное описание и код проекта:  
 https://github.com/StressOzz/Zapret-Manager
+
 ---
 
 ## 🌉 Установка / обновление Podkop
