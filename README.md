@@ -105,9 +105,6 @@ https://github.com/itdoginfo/allow-domains
 ## 📎 Краткие команды
 
 ```sh
-# Обновить пакеты OpenWrt
-opkg update
-
 # Установка / запуск Zapret-Manager
 sh <(wget -O - https://raw.githubusercontent.com/StressOzz/Zapret-Manager/main/Zapret-Manager.sh)
 
